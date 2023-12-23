@@ -1,0 +1,3 @@
+openai
+py-readability-metrics
+PyPDF2

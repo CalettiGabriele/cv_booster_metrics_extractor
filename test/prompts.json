@@ -1,0 +1,12 @@
+{
+    "summarize":{
+        "prompt":"summarise the following text.\n\nText: \"\"\"\n%s\n\"\"\"",
+        "model":"gpt-3.5-turbo",
+        "temperature":"0."
+    },
+    "expand":{
+        "prompt":"expand the following text.\n\nText: \"\"\"\n%s\n\"\"\"",
+        "model":"gpt-3.5-turbo",
+        "temperature":"0."
+    }
+}
